@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gdpr on Reverse Engineering Task Force</title>
+    <link>https://example.com/tags/gdpr/</link>
+    <description>Recent content in gdpr on Reverse Engineering Task Force</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 30 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/gdpr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exercising workers’ rights in algorithmic management systems</title>
+      <link>https://example.com/posts/2023/09/exercising-workers-rights-in-algorithmic-management-systems/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2023/09/exercising-workers-rights-in-algorithmic-management-systems/</guid>
+      <description>A small summary of the report TODO</description>
+    </item>
+    
+  </channel>
+</rss>

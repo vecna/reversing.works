@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://reversing.works"
 title   = "Reverse Engineering Task Force"
 languageCode = "en-us"
 theme = "hello-friend-ng"

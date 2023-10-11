@@ -24,4 +24,4 @@ According to the authors of this ETUI’s report, collecting evidence about algo
 
 The availability of technical expertise can also help improve workers’ negotiating positions in a collective bargaining context. Ultimately, we believe that, by helping workers understand the apps that control them, we can give them the key to unlock their rights and build a fairer future of work for all.
 
-### [Read the ETUI report](/linkTODO)
+### [Read the ETUI report](https://www.etui.org/publications/exercising-workers-rights-algorithmic-management-systems)

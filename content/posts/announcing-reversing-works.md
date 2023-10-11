@@ -10,11 +10,11 @@ date = "2023-09-30"
   name = "Staff"
 +++
 
-In Spring 2023, the project [Tracking Exposed](https://tracking.exposed) concluded. This led to the emergence of various new initiatives.
+In the spring of 2023, the [Tracking Exposed](https://tracking.exposed) project came to an end. This gave rise to several new initiatives, including the **Reverse Engineering Task Force**.
 
-Reverse Engineering Task Force is also the group that would continue the efforts described in this [report](posts/2023/09/exercising-workers-rights-in-algorithmic-management-systems/).
+This is the professional group that wants to continue the [efforts started in 2019](https://tracking.exposed/#h.7litmink24dc), which are better explained in [this report](posts/2023/09/exercising-workers-rights-in-algorithmic-management-systems/).
 
-Today we announce the [Reverse Engineering Task Force](https://reversing.works). The [team](/about), is committed to supporting trade unions, policy-makers, and informal worker groups grappling with digital challenges.
+The goal can be summarized as: to support trade unions in defending workers' rights. Address the digital abuses embedded in modern platforms. Explain the power dynamics to policymakers so that new regulations are modern and timely.
 
-Expect website updates in the coming months. For contact, please email `staff@reversing.works`.
+Expect website updates in the coming days. For contact, please email `staff@reversing.works`.
 

@@ -1,5 +1,5 @@
 baseURL = "https://reversing.works"
-title   = "Reverse Engineering Task Force"
+title   = "Reversing.Works"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -40,7 +40,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Reverse Engineering Task Force"
+  name = "reversing.works"
 
 [blackfriday]
   hrefTargetBlank = true

@@ -3,10 +3,10 @@ title = "[Report] Exercising workers’ rights in algorithmic management systems
 description = "Lessons learned from the Glovo-Foodinho digital labour platform case"
 # type = ["posts","post"]
 tags = [
-    "reversing",
-    "report",
-    "methodology",
-    "gdpr",
+  "reversing",
+  "report",
+  "methodology",
+  "gdpr",
 ]
 date = "2023-10-09"
 # categories = [

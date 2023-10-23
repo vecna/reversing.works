@@ -3,7 +3,7 @@ title = "Announcing the Reverse Engineering Task Force"
 description = "Goal and backgound"
 # type = ["posts","post"]
 tags = [
-    "reversing.works"
+  "reversing.works"
 ]
 date = "2023-09-30"
 [ author ]

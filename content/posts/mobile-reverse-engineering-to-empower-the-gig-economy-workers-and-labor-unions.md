@@ -5,7 +5,7 @@ description = "37c3 session (recorded and streamed)"
 tags = [
   "reversing.works"
 ]
-date = "2023-12-30"
+date = "2023-12-29"
 [ author ]
   name = "Staff"
 +++
@@ -14,7 +14,7 @@ date = "2023-12-30"
 
 Would be streamed and recorded, the title is [Mobile reverse engineering to empower the gig economy workers and labor unions](https://events.ccc.de/congress/2023/hub/en/event/mobile_reverse_engineering_to_empower_the_gig_economy_workers_and_labor_unions/), and talks about the investigation in Glovo and next steps we look forward to explore.
 
-### Talk description
+### Talk Description
 
 This talk will describe our efforts to introduce a new toolkit and mindset for unions and gig workers, which is essential in an era where, for a growing number of people, "an app is their boss".
 

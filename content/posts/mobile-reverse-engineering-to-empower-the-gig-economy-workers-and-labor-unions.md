@@ -12,7 +12,7 @@ date = "2023-12-29"
 
 ### at the [Chaos Communication Congress, 37c3](https://en.wikipedia.org/wiki/Chaos_Communication_Congress), we're giving a talk!
 
-Would be streamed and recorded, the title is [Mobile reverse engineering to empower the gig economy workers and labor unions](https://events.ccc.de/congress/2023/hub/en/event/mobile_reverse_engineering_to_empower_the_gig_economy_workers_and_labor_unions/), and talks about the investigation in Glovo and next steps we look forward to explore.
+Would be streamed and recorded, the title is [Mobile reverse engineering to empower the gig economy workers and labor unions](https://events.ccc.de/congress/2023/hub/en/event/mobile_reverse_engineering_to_empower_the_gig_economy_workers_and_labor_unions/), and talks about the investigation in Glovo and next steps we look forward to explore. **PDF [slides](/pdf/presentation-37c3-2023-12-30.pdf)**.
 
 ### Talk Description
 

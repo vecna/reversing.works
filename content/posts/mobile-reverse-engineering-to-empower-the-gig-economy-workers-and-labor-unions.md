@@ -10,9 +10,12 @@ date = "2023-12-30"
   name = "Staff"
 +++
 
-We're giving a talk at the [Chaos Communication Congress](https://en.wikipedia.org/wiki/Chaos_Communication_Congress)!
+We gave a talk at the [Chaos Communication Congress](https://en.wikipedia.org/wiki/Chaos_Communication_Congress). This [the event planned](https://events.ccc.de/congress/2023/hub/en/event/mobile_reverse_engineering_to_empower_the_gig_economy_workers_and_labor_unions/), and here the [streaming or download options](https://media.ccc.de/v/37c3-12133-mobile_reverse_engineering_to_empower_the_gig_economy_workers_and_labor_unions).
 
-It will be [streamed and recorded](https://events.ccc.de/congress/2023/hub/en/event/mobile_reverse_engineering_to_empower_the_gig_economy_workers_and_labor_unions/). It talks about the research on Glovo and the next steps we are looking forward to exploring. **PDF [slides](/pdf/presentation-37c3-2023-12-30.pdf)**.
+It talks about the research on Glovo and the next steps we are looking forward to exploring. **PDF [slides](/pdf/presentation-37c3-2023-12-30.pdf)**.
+
+<iframe width="1024" height="576" src="https://media.ccc.de/v/37c3-12133-mobile_reverse_engineering_to_empower_the_gig_economy_workers_and_labor_unions/oembed" frameborder="0" allowfullscreen></iframe>
+
 
 ### Talk Description
 

@@ -22,8 +22,8 @@ The Privacy Camp represents a gathering of activists and digital rights advocate
 
 More about [Reversing.works](/about)
 
-### Live Streaming
+### Streaming
 
-[Link 🔗](https://privacycamp.eu/using-reverse-engineering-and-gdpr-to-support-workers-in-the-gig-economy/) 
+On [YouTube, privacycamp24](https://youtu.be/BUxq3t7GL0A?t=18620) The session starts at 05:10:20 and finish at 06:30:00.
 
-📆Jan 24th, 14:00 
+[Event Link 🔗](https://privacycamp.eu/using-reverse-engineering-and-gdpr-to-support-workers-in-the-gig-economy/) 

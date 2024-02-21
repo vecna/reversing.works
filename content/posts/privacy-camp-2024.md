@@ -24,6 +24,6 @@ More about [Reversing.works](/about)
 
 ### Streaming
 
-On [YouTube, privacycamp24](https://youtu.be/BUxq3t7GL0A?t=18620) The session starts at 05:10:20 and finish at 06:30:00.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/psTcjUji2-Y?si=CD0rRiNi06FzHZBK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Event Link 🔗](https://privacycamp.eu/using-reverse-engineering-and-gdpr-to-support-workers-in-the-gig-economy/) 

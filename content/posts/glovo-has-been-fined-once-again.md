@@ -1,6 +1,6 @@
 +++
 title = "Press Release: Reversing.Works Investigation Exposes Glovo’s Data Privacy Violations, Marking a Milestone for Worker Rights and Technology Accountability"
-description = "Five million fine and corrective measures imposed by the Data Protection Authority today"
+description = "A five million euros fine and corrective measures imposed by the Data Protection Authority today"
 tags = [
   "reversing.works"
 ]

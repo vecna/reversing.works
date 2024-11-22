@@ -41,6 +41,7 @@ For more details on the technical and legal aspects of our findings, see the fol
 * Data Protection Authority press release: https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10074840 
 * Technical Presentation at the Chaos Communication Congress 2023: https://reversing.works/posts/2023/12/mobile-reverse-engineering-to-empower-the-gig-economy-workers-and-labor-unions/ 
 * Research Published by the European Trade Union Institute: https://www.etui.org/publications/exercising-workers-rights-algorithmic-management-systems and the explanatory video https://youtu.be/GStSL6pT_38 
+* Italian article https://www.today.it/economia/perche-garante-privacy-sanziona-glovo-algoritmo-diritti-rider.html
 
 ## Contact:  
 

@@ -208,3 +208,7 @@ disableHugoGeneratorInject = false
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+  [[menu.main]]
+    identifier = "connect"
+    name       = "Connect with us"
+    url        = "https://fossil-milk-962.notion.site/13c5e1c20ecd80c59b7cc8ad3405ff75"

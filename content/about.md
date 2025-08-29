@@ -25,9 +25,9 @@ aliases = ["about-us","contact"]
 
 # People
 
-* Simone Robutti
-* Claudio Agosti
-* Joanna Bronowicka
+* [Simone Robutti](https://robutti.me)
+* [Claudio Agosti](https://linktr.ee/claudio.agosti)
+* [Joanna Bronowicka](https://joannabronowicka.wordpress.com/)
 * Gaetano Priori
 
 # Background

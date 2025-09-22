@@ -4,7 +4,7 @@ description = "Join us to uncover what delivery apps are really doing with your 
 tags = [
   "reversing.works", "workshop"
 ]
-date = "2025-09-11"
+date = "2025-09-21"
 [ author ]
   name = "Staff"
 +++

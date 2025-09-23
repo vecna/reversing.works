@@ -10,7 +10,7 @@ date = "2025-09-21"
 +++
 
 
-# 1. Who are we
+## 1. Who are we
 
 We are **reversing.works**. Our team brings together technical expertise and knowledge from different fields to help unions, worker collectives, and allies understand how gig-economy apps really work.
 
@@ -22,7 +22,7 @@ We have carried out investigations in several EU countries, including Germany an
 
 We are currently funded by the **[European AI & Social Fund](/posts/2025/07/reversing.works-secures-funding-to-scale-worker-led-tech-investigations/)**.
 
-# 2. What Is Our Goal
+## 2. What Is Our Goal
 
 Our workshops bring riders together—people working with Glovo, Wolt, UberEats, or Bolt. Facilitators from reversing.works guide the sessions, while union organizers, legal experts, or technical specialists may also join to provide support and answer questions.
 
@@ -38,7 +38,7 @@ By the end of the session, we will have a shared record of the data the apps sen
 
 Most importantly, **you decide** what happens with your data.
 
-# 3. How We Study the Apps Together
+## 3. How We Study the Apps Together
 
 During the workshop, we provide phones prepared for the session. You log in to your delivery app with your own login and password—just as you normally would.
 
@@ -50,11 +50,10 @@ With this setup, we observe together what data the app is sending:
 
 We don’t interfere with the app or change anything. We only observe what it does—like holding a magnifying glass over its activity.
 
-# 4. Our Principles
+## 4. Our Principles
 
 - **Anonymity**: Your personal details are never shared during or after the workshop.
 - **Transparency**: We explain what data we collect, how, and why—no secrets.
 - **Choice and control**: At the end, you decide what happens with the data. It can be used for research and advocacy, or kept private.
 
-Read more about the Glovo investigation here (link to our website) and about the goals of the current project here (link to our website). Contact us at [staff@reversing.works](mailto:staff@reversing.works) with questions.
-
+Read more about the Glovo investigation [here](/posts/2024/11/press-release-reversing.works-investigation-exposes-glovos-data-privacy-violations-marking-a-milestone-for-worker-rights-and-technology-accountability/) and about the goals of the current project [here](/posts/2025/07/reversing.works-secures-funding-to-scale-worker-led-tech-investigations/) . Contact us at [staff@reversing.works](mailto:staff@reversing.works) with questions.

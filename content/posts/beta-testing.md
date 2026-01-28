@@ -18,7 +18,7 @@ We just released the [first iteration](https://reversing.works/posts/2025/12/web
 - A phone with android
 - A basic knowledge of the command-line interface
 
-![](static/img/phones.webp)
+![](/img/phones.webp)
 
 ### How can you help
 

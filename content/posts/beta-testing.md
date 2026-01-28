@@ -18,6 +18,8 @@ We just released the [first iteration](https://reversing.works/posts/2025/12/web
 - A phone with android
 - A basic knowledge of the command-line interface
 
+![](static/img/phones.webp)
+
 ### How can you help
 
 - We invite you to follow our [documentation](https://github.com/fisiognomico/webusb-unpinner), install and run the tool. Report any doubt or improvement in the [issues](https://github.com/fisiognomico/webusb-unpinner/issues) of our repository. Any suggestion can help us make the onboarding easier for inexperienced user.

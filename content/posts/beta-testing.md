@@ -2,7 +2,7 @@
 title = "Help Reversing.works empower workers by testing our tool"
 description = "Reversing.works is looking for technical beta testers. Help us test WebUSB Unpinner, a tool critical for worker susveillance."
 tags = [
-  "reversing.works", 
+  "reversing.works", "technical update"
 ]
 date = "2026-01-27"
 [ author ]

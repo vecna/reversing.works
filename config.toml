@@ -60,13 +60,13 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   # 
-  description = "Empowering labor unions with specialized reverse engineering expertise to uncover and expose covert practices in gig-economy apps, ensuring transparency and fairness in the digital workforce"
+  description = "We are Reversing.Works, a transdisciplinary research team working to expose and challenge algorithmic management in the digital workplace."
   keywords = ""
   images = [""]
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Supporting unions that expose surveillance and discrimination against platform workers."
+  homeSubtitle = "We expose and challenge algorithmic management in the digital workplace."
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"

@@ -3,8 +3,8 @@
 {{ end }}
 
 {{ define "main" }}
-    <main aria-role="main">
-        <div>
+    <main class="home" role="main">
+        <div class="home__intro">
             {{ if .Site.Params.Portrait.Path }}
                <img src="{{ .Site.Params.Portrait.Path }}" class="circle" alt="{{ .Site.Params.Portrait.Alt }}" style="max-width:{{ .Site.Params.Portrait.MaxWidth }}" />
             {{ end }}
@@ -19,5 +19,29 @@
                 </div>
             {{- end }}
         </div>
+
+        <section class="releases" aria-labelledby="releases-heading">
+            <h2 class="releases__heading" id="releases-heading">releases</h2>
+
+            <div class="releases__grid">
+                <article class="release">
+                    <h3 class="release__title">The Handbook</h3>
+                    <p class="release__description"><em>Reversing the Gaze: How to Study Workplace Apps and Reclaim Workers' Rights</em> provides a practical methodology for investigating workplace apps together with workers.</p>
+                    <a class="button release__button" href="{{ "pdf/handbook-Sept26.pdf" | relURL }}" download aria-label="Download the Handbook">Download</a>
+                </article>
+
+                <article class="release">
+                    <h3 class="release__title">The Workshop Guide</h3>
+                    <p class="release__description">A practical framework for organising collaborative investigations with workers, from preparing the technical setup and collecting data to analysing findings and deciding what to do with them.</p>
+                    <a class="button release__button" href="{{ "pdf/workshop-guide-Sept26.pdf" | relURL }}" download aria-label="Download the Workshop Guide">Download</a>
+                </article>
+
+                <article class="release">
+                    <h3 class="release__title">WebUSB Unpinner</h3>
+                    <p class="release__description">WebUSB Unpinner helps workers with limited technical skills investigate the traffic between the apps they use for work and their employer's servers.</p>
+                    <a class="button release__button" href="https://github.com/fisiognomico/webusb-unpinner">View project</a>
+                </article>
+            </div>
+        </section>
     </main>
 {{ end }}

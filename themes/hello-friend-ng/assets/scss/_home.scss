@@ -1,0 +1,102 @@
+.home {
+  width: 100%;
+  max-width: 1080px;
+  padding: 72px 32px 48px;
+
+  &__intro {
+    text-align: center;
+  }
+}
+
+.releases {
+  margin-top: 72px;
+  text-align: left;
+
+  &__heading {
+    margin: 0 0 18px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.16em;
+    color: $light-color-secondary;
+
+    @media (prefers-color-scheme: dark) {
+      color: $dark-color-secondary;
+    }
+
+    @media (prefers-color-scheme: light) {
+      color: $light-color-secondary;
+    }
+
+    [data-theme=dark] & {
+      color: $dark-color-secondary;
+    }
+
+    [data-theme=light] & {
+      color: $light-color-secondary;
+    }
+  }
+
+  &__grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 24px;
+  }
+}
+
+.release {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  padding-top: 22px;
+  border-top: 1px solid $light-border-color;
+
+  @media (prefers-color-scheme: dark) {
+    border-color: $dark-border-color;
+  }
+
+  @media (prefers-color-scheme: light) {
+    border-color: $light-border-color;
+  }
+
+  [data-theme=dark] & {
+    border-color: $dark-border-color;
+  }
+
+  [data-theme=light] & {
+    border-color: $light-border-color;
+  }
+
+  &__title {
+    margin: 0 0 12px;
+    font-size: 1.25rem;
+  }
+
+  &__description {
+    margin: 0 0 24px;
+    line-height: 1.6;
+  }
+
+  &__button,
+  a#{&}__button {
+    align-self: flex-start;
+    margin-top: auto;
+    max-width: none;
+    padding: 8px 18px;
+    text-decoration: none;
+  }
+}
+
+@media #{$media-size-phone} {
+  .home {
+    padding: 52px 20px 32px;
+  }
+
+  .releases {
+    margin-top: 52px;
+
+    &__grid {
+      grid-template-columns: 1fr;
+      gap: 36px;
+    }
+  }
+}

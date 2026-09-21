@@ -1,0 +1,15 @@
+{{ define "main" }}
+    <main class="releases-page" role="main">
+        <h1 class="releases-page__title">{{ .Title }}</h1>
+
+        <div class="releases-page__grid">
+            {{ range .Params.releases }}
+                <article class="release-card">
+                    <h2 class="release-card__title">{{ .title }}</h2>
+                    <div class="release-card__description">{{ .description | markdownify }}</div>
+                    <a class="button release-card__button" href="{{ .url | relURL }}"{{ if .download }} download aria-label="Download {{ .title }}"{{ end }}>{{ .button }}</a>
+                </article>
+            {{ end }}
+        </div>
+    </main>
+{{ end }}

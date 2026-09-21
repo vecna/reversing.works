@@ -48,6 +48,6 @@ The event is **open to everyone, but registration is required**.
 **Join us to explore the guides, learn how workplace apps can be investigated, and discuss how digital evidence can become a tool for workers' rights.**
 
 
-### Thanks to our [donor](https://europeanaifund.org)
+# Sponsored by [EU and Society AI Fund](https://europeanaifund.org)
 
-This release concludes the project we made with the support of [EU and Society AI Fund](https://europeanaifund.org/newspublications/15-new-grantees-to-hold-governments-employers-and-tech-companies-accountable-for-ai-harms-in-europe/), alongside the development of [WebUSB unpinner](/posts/2025/12/webusb-unpinner-network-analysis-for-the-masses/) and a few workshop in EU with Unions and other partners.
+This project was supported by a grant from the European AI & Society Fund ([announcement](https://europeanaifund.org/newspublications/15-new-grantees-to-hold-governments-employers-and-tech-companies-accountable-for-ai-harms-in-europe/) post).

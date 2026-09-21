@@ -1,39 +1,11 @@
-.home {
+.releases-page {
   width: 100%;
   max-width: 1080px;
   padding: 72px 32px 48px;
-
-  &__intro {
-    text-align: center;
-  }
-}
-
-.releases {
-  margin-top: 72px;
   text-align: left;
 
-  &__heading {
-    margin: 0 0 18px;
-    font-size: 0.75rem;
-    font-weight: 700;
-    letter-spacing: 0.16em;
-    color: $light-color-secondary;
-
-    @media (prefers-color-scheme: dark) {
-      color: $dark-color-secondary;
-    }
-
-    @media (prefers-color-scheme: light) {
-      color: $light-color-secondary;
-    }
-
-    [data-theme=dark] & {
-      color: $dark-color-secondary;
-    }
-
-    [data-theme=light] & {
-      color: $light-color-secondary;
-    }
+  &__title {
+    margin: 0 0 40px;
   }
 
   &__grid {
@@ -43,7 +15,7 @@
   }
 }
 
-.release {
+.release-card {
   display: flex;
   flex-direction: column;
   min-width: 0;
@@ -74,6 +46,10 @@
   &__description {
     margin: 0 0 24px;
     line-height: 1.6;
+
+    p {
+      margin: 0;
+    }
   }
 
   &__button,
@@ -87,12 +63,12 @@
 }
 
 @media #{$media-size-phone} {
-  .home {
+  .releases-page {
     padding: 52px 20px 32px;
-  }
 
-  .releases {
-    margin-top: 52px;
+    &__title {
+      margin-bottom: 32px;
+    }
 
     &__grid {
       grid-template-columns: 1fr;

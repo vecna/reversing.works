@@ -15,7 +15,7 @@ Reversing.Works is launching a new handbook and workshop guide for workers, unio
 
 Today, workplace apps increasingly determine how work is organised: they track location, collect information about workers, allocate tasks, measure performance, and sometimes make decisions that affect workers' pay and working conditions. Yet the systems behind these apps are largely invisible to the people who use them. We believe workers should be able to **look back at the systems that watch them**.
 
-Over 2025–26, we tested and refined our approach through five workshops with workers in Berlin, Warsaw, Barcelona and Brussels, learning what works in practice and improving our methodology along the way. We are now ready to share what we have learned through the Handbook and Workshop Guide — and to work with new partners to bring digital investigations to more workplaces.
+Over 2025–26, we tested and refined our approach through five workshops with workers in Berlin, Warsaw, Barcelona and Brussels, learning what works in practice and improving our methodology along the way. We are now ready to share what we have learned through the Handbook and Workshop Guide — and to work with new partners to bring digital investigations to more workplaces. This project was supported by a grant from the [European AI & Society Fund](https://europeanaifund.org/newspublications/15-new-grantees-to-hold-governments-employers-and-tech-companies-accountable-for-ai-harms-in-europe/).
 
 Our new [**Handbook, *Reversing the Gaze: How to Study Workplace Apps and Reclaim Workers' Rights***](/pdf/handbook-Sept26.pdf), provides a practical methodology for investigating these systems together with workers.
 
@@ -47,7 +47,3 @@ The event is **open to everyone, but registration is required**.
 
 **Join us to explore the guides, learn how workplace apps can be investigated, and discuss how digital evidence can become a tool for workers' rights.**
 
-
-# Sponsored by [EU and Society AI Fund](https://europeanaifund.org)
-
-This project was supported by a grant from the European AI & Society Fund ([announcement](https://europeanaifund.org/newspublications/15-new-grantees-to-hold-governments-employers-and-tech-companies-accountable-for-ai-harms-in-europe/) post).

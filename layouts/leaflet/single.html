@@ -1,0 +1,72 @@
+{{ define "main" }}
+    <main class="leaflet" role="main">
+        <header class="leaflet__masthead">
+            <span>{{ .Params.brand }}</span>
+        </header>
+
+        <div class="leaflet__body">
+            <div class="leaflet__lead">
+                <div class="leaflet__copy">
+                    <header class="leaflet__title-block">
+                        <h1>{{ .Title }}</h1>
+                        <p>{{ .Params.subtitle }}</p>
+                    </header>
+
+                    {{ with .Params.handbook }}
+                        <section class="leaflet-section" aria-labelledby="handbook-heading">
+                            <h2 id="handbook-heading"><span aria-hidden="true">##</span> {{ .title }}</h2>
+                            <div class="leaflet-section__prose">{{ .intro | markdownify }}</div>
+                            <ul class="leaflet-list">
+                                {{ range .points }}
+                                    <li><span aria-hidden="true">&gt;</span> <strong>{{ .label }}</strong> — {{ .detail }}</li>
+                                {{ end }}
+                            </ul>
+                            <div class="leaflet-section__prose">{{ .action | markdownify }}</div>
+                            <div class="leaflet-section__prose">{{ .workshop | markdownify }}</div>
+                        </section>
+                    {{ end }}
+                </div>
+
+                <figure class="leaflet__cover">
+                    <img src="{{ .Params.cover | relURL }}" alt="{{ .Params.cover_alt }}" />
+                </figure>
+            </div>
+
+            {{ with .Params.about }}
+                <section class="leaflet-section leaflet-section--about" aria-labelledby="about-heading">
+                    <h2 id="about-heading"><span aria-hidden="true">##</span> {{ .title }}</h2>
+                    <div class="leaflet-section__prose">{{ .text | markdownify }}</div>
+                </section>
+            {{ end }}
+
+            {{ with .Params.event }}
+                <section class="leaflet-event" aria-labelledby="event-heading">
+                    <h2 id="event-heading"><span aria-hidden="true">##</span> {{ .title }}</h2>
+                    <p class="leaflet-event__when">
+                        <time datetime="{{ .datetime }}">{{ .date }}</time>
+                        <span aria-hidden="true">·</span> {{ .time }}
+                        <span aria-hidden="true">·</span> {{ .location }}
+                    </p>
+                    <p>{{ .intro }}</p>
+                    <ul class="leaflet-list">
+                        {{ range .points }}
+                            <li><span aria-hidden="true">&gt;</span> <strong>{{ .label }}</strong> {{ .detail }}</li>
+                        {{ end }}
+                    </ul>
+                </section>
+            {{ end }}
+
+            {{ with .Params.registration }}
+                <section class="leaflet-registration" aria-label="Event registration">
+                    <div class="leaflet-registration__command">
+                        <p>{{ .label }}</p>
+                        <a href="{{ .url }}">$ open <span>{{ .url }}</span></a>
+                    </div>
+                    <a class="leaflet-registration__qr" href="{{ .url }}" aria-label="Register for the community call">
+                        <img src="{{ .qr | relURL }}" alt="QR code for community call registration" />
+                    </a>
+                </section>
+            {{ end }}
+        </div>
+    </main>
+{{ end }}

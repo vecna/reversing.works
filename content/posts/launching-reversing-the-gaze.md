@@ -1,0 +1,53 @@
++++
+title = "Launching Reversing the Gaze: a New Handbook for Investigating Workplace Apps"
+description = ""
+tags = [
+  "reversing.works", "publication"
+]
+date = "2026-09-15"
+[ author ]
+  name = "Staff"
++++
+
+Reversing.Works is launching a new handbook and workshop guide for workers, unions, technologists and researchers who want to investigate the apps used to manage and surveil workers. Join us online on Wednesday, 7 October, from 18:00–20:00 online for the launch event.
+
+**Registration**: https://luma.com/m886cxlq
+
+Today, workplace apps increasingly determine how work is organised: they track location, collect information about workers, allocate tasks, measure performance, and sometimes make decisions that affect workers' pay and working conditions. Yet the systems behind these apps are largely invisible to the people who use them. We believe workers should be able to **look back at the systems that watch them**.
+
+Over 2025–26, we tested and refined our approach through five workshops with workers in Berlin, Warsaw, Barcelona and Brussels, learning what works in practice and improving our methodology along the way. We are now ready to share what we have learned through the Handbook and Workshop Guide — and to work with new partners to bring digital investigations to more workplaces.
+
+Our new [**Handbook, *Reversing the Gaze: How to Study Workplace Apps and Reclaim Workers' Rights***](/pdf/handbook-Sept26.pdf), provides a practical methodology for investigating these systems together with workers.
+
+Our work starts from a simple question: how can workers find out what companies know and decide about them?  We answer this by analysing how workplace apps behave in practice;
+
+Specifically, the data they transmit from a worker’s private device to company servers. This approach — which we call network forensics — focuses on real- world data flows to document how information is collected, processed, and shared, including with third parties, without relying on internal access to company systems.
+
+Through network forensics, we can investigate:
+
+- **What data an app collects**, including information gathered in the background;
+- **Where workers' data goes**, including connections to third-party services; and
+- **How apps manage workers**, including technical traces of ranking, scoring, task allocation and other forms of automated decision-making.
+
+The Handbook also shows how technical findings can become **evidence for action** — from complaints to data protection authorities and strategic litigation to collective bargaining and public campaigning.
+
+The accompanying [**Workshop Guide**](/pdf/workshop-guide-Sept26.pdf) focuses on how to put this methodology into practice. It provides a practical framework for organising collaborative investigations with workers, from preparing the technical setup and collecting data to analysing findings and deciding what to do with them.
+
+Our aim is to make digital investigation **reproducible and accessible** — so workers' organisations, unions, technologists and researchers can build on an established methodology rather than starting from scratch.
+
+### Join the launch
+
+At the launch, we will introduce the two guides, explain how the methodology works, share what we have learned from applying it, and discuss how these tools can be used in workers' organising and advocacy.
+
+**Wednesday, 7 October · 18:00–20:00 · Online**
+
+The event is **open to everyone, but registration is required**.
+
+**Registration**: https://luma.com/m886cxlq
+
+**Join us to explore the guides, learn how workplace apps can be investigated, and discuss how digital evidence can become a tool for workers' rights.**
+
+
+### Thanks to our [donor](https://europeanaifund.org)
+
+This release concludes the project we made with the support of [EU and Society AI Fund](https://europeanaifund.org/newspublications/15-new-grantees-to-hold-governments-employers-and-tech-companies-accountable-for-ai-harms-in-europe/), alongside the development of [WebUSB unpinner](/posts/2025/12/webusb-unpinner-network-analysis-for-the-masses/) and a few workshop in EU with Unions and other partners.

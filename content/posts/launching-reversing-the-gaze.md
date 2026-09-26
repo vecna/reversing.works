@@ -9,7 +9,7 @@ date = "2026-09-15"
   name = "Staff"
 +++
 
-Reversing.Works is launching a new handbook and workshop guide for workers, unions, technologists and researchers who want to investigate the apps used to manage and surveil workers. Join us online on Wednesday, 7 October, from 18:00–20:00 online for the launch event.
+Reversing.Works is launching a new handbook and workshop guide for workers, unions, technologists and researchers who want to investigate the apps used to manage and surveil workers. Join us online on Wednesday, 14 October, from 18:00–20:00 online for the launch event.
 
 **Registration**: https://luma.com/m886cxlq
 

@@ -32,8 +32,8 @@ text = "**Reversing.Works** brings workers, unions, technologists and researcher
 
 [event]
 title = "Join Our Community Call"
-datetime = "2026-10-07T18:00:00+02:00"
-date = "Wednesday, 7 October"
+datetime = "2026-10-14T18:00:00+02:00"
+date = "Wednesday, 14 October"
 time = "18:00–20:00"
 location = "Online"
 intro = "Join us for the launch of the Handbook and Workshop Guide. We will:"

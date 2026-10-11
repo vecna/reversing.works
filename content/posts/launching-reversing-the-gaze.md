@@ -39,7 +39,7 @@ Our aim is to make digital investigation **reproducible and accessible** — so 
 
 At the launch, we will introduce the two guides, explain how the methodology works, share what we have learned from applying it, and discuss how these tools can be used in workers' organising and advocacy.
 
-**Wednesday, 7 October · 18:00–20:00 · Online**
+**Wednesday, 14 October · 18:00–20:00 · Online**
 
 The event is **open to everyone, but registration is required**.
 

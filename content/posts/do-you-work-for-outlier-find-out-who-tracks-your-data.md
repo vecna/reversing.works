@@ -4,7 +4,7 @@ description = "New research identifies 16 trackers on Outlier. Join a workshop t
 date = "2026-10-15"
 +++
 
-## Are you an AI data worker? <a href="https://fossil-milk-962.notion.site/bcf5e1c20ecd83d898458106f58fea79?pvs=105" role="button" style="display: inline-block; padding: 0.65em 1.2em; background-color: #d84b2f; color: #fff; text-decoration: none; border-radius: 4px; font-weight: bold;">Fill up the form</a>
+## Are you an AI data worker? <a href="https://fossil-milk-962.notion.site/bcf5e1c20ecd83d898458106f58fea79?pvs=105" role="button" style="display: inline-block; padding: 0.65em 1.2em; background-color: #419eb7; color: #fff; text-decoration: none; border-radius: 4px; font-weight: bold;">Fill up the form</a>
 
 **Milan, 15 October 2026** — Do you work on Outlier or another AI training platform? Do you want to know what personal data a platform collects about you, and who it shares it with? Are you concerned about being tracked while you work?
 
@@ -12,7 +12,7 @@ date = "2026-10-15"
 
 ---
 
-Reversing.Works and DiPLab’s new report, [*Surveillance at Scale: Poverty, Wages and Privacy Violations on an AI Platform*]( https://diplab.eu/report-new-diplab-report-surveillance-at-scale/), reveals the extent of personal data collection on Outlier, the AI training platform operated by Scale AI.
+Reversing.Works and DiPLab’s new report, [*Surveillance at Scale: Poverty, Wages and Privacy Violations on an AI Platform*](https://diplab.eu/report-new-diplab-report-surveillance-at-scale/), reveals the extent of personal data collection on Outlier, the AI training platform operated by Scale AI.
 
 **Our analysis identified 16 unique trackers that collected workers’ personal information and sent it to third parties.** These include social media trackers, tools that monitor online activity, and services handling sensitive identity data.
 
@@ -34,7 +34,7 @@ We’re organising a workshop for data workers who want to understand what infor
 
 **Do you work on Outlier or another platform and want to know more? Get in touch or sign up to hear when the workshop is announced.**
 
-\[**Register your interest here →**\](https://fossil-milk-962.notion.site/bcf5e1c20ecd83d898458106f58fea79?pvs=105)
+[**Register your interest here →**](https://fossil-milk-962.notion.site/bcf5e1c20ecd83d898458106f58fea79?pvs=105)
 
 We also want to hear from workers on other platforms about their experiences with tracking, identity checks and personal data collection.
 

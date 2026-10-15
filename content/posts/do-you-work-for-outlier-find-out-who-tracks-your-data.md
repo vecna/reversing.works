@@ -4,13 +4,13 @@ description = "New research identifies 16 trackers on Outlier. Join a workshop t
 date = "2026-10-15"
 +++
 
----
-
-## New research by Reversing.Works and DIPLab identifies 16 trackers collecting personal information on Outlier and sending it to third parties. We’re inviting Outlier workers to sign up for a workshop to find out more about the trackers on their browsers, what data they collect and what their privacy rights are.
-
----
+## are you an AI data worker? consider [fill up the form](https://fossil-milk-962.notion.site/bcf5e1c20ecd83d898458106f58fea79?pvs=105)
 
 **Milan, 15 October 2026** — Do you work on Outlier or another AI training platform? Do you want to know what personal data a platform collects about you, and who it shares it with? Are you concerned about being tracked while you work?
+
+#### `New research by Reversing.Works and DIPLab identifies 16 trackers collecting personal information on Outlier and sending it to third parties. We’re inviting Outlier workers to sign up for a workshop to find out more about the trackers on their browsers, what data they collect and what their privacy rights are.`
+
+---
 
 Reversing.Works and DiPLab’s new report, [*Surveillance at Scale: Poverty, Wages and Privacy Violations on an AI Platform*]( https://diplab.eu/report-new-diplab-report-surveillance-at-scale/), reveals the extent of personal data collection on Outlier, the AI training platform operated by Scale AI.
 
@@ -34,7 +34,7 @@ We’re organising a workshop for data workers who want to understand what infor
 
 **Do you work on Outlier or another platform and want to know more? Get in touch or sign up to hear when the workshop is announced.**
 
-\[**Register your interest here →**\](INSERT SIGN-UP LINK)
+\[**Register your interest here →**\](https://fossil-milk-962.notion.site/bcf5e1c20ecd83d898458106f58fea79?pvs=105)
 
 We also want to hear from workers on other platforms about their experiences with tracking, identity checks and personal data collection.
 

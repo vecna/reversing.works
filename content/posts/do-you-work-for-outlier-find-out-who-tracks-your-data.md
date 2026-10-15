@@ -4,7 +4,7 @@ description = "New research identifies 16 trackers on Outlier. Join a workshop t
 date = "2026-10-15"
 +++
 
-## are you an AI data worker? consider [fill up the form](https://fossil-milk-962.notion.site/bcf5e1c20ecd83d898458106f58fea79?pvs=105)
+## Are you an AI data worker? <a href="https://fossil-milk-962.notion.site/bcf5e1c20ecd83d898458106f58fea79?pvs=105" role="button" style="display: inline-block; padding: 0.65em 1.2em; background-color: #d84b2f; color: #fff; text-decoration: none; border-radius: 4px; font-weight: bold;">Fill up the form</a>
 
 **Milan, 15 October 2026** — Do you work on Outlier or another AI training platform? Do you want to know what personal data a platform collects about you, and who it shares it with? Are you concerned about being tracked while you work?
 

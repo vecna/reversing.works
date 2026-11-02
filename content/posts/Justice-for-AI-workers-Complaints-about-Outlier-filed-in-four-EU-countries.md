@@ -1,9 +1,10 @@
 +++
 title = "Justice for AI workers: Complaints about Outlier filed in four EU countries"
-description = ""
+description = "New research identifies 16 trackers on Outlier. Join a workshop to understand what data AI training platforms collect and how to exercise your rights"
 tags = [
   "reversing.works", "litigation"
 ]
+image = "/img/outlier-2026-10-15/image-1.webp"
 date = "2026-10-28"
 [ author ]
   name = "Staff"

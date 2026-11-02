@@ -2,6 +2,7 @@
 title = "Do You Work for Outlier? Find Out Who Tracks Your Data"
 description = "New research identifies 16 trackers on Outlier. Join a workshop to understand what data AI training platforms collect and how to exercise your rights"
 date = "2026-10-15"
+draft = true
 +++
 
 ## Are you an AI data worker? <a href="https://fossil-milk-962.notion.site/bcf5e1c20ecd83d898458106f58fea79?pvs=105" role="button" style="display: inline-block; padding: 0.65em 1.2em; background-color: #419eb7; color: #fff; text-decoration: none; border-radius: 4px; font-weight: bold;">Fill up the form</a>
